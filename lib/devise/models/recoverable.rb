@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+require "rails/actionpack/lib/action_controller/metal"
 
 module Devise
   module Models
